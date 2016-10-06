@@ -1,1 +1,3 @@
 # GitExercise
+
+Allir að prófa að pósta einhverju stöffi hingað.. og breyta einhverri skrá, eins og að bæta við í þennan readme.md...
